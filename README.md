@@ -1,2 +1,2 @@
 # etilang
-Sistem Informasi Tilang
+Sistem Informasi Tilang dengan CodeIgniter
